@@ -2,8 +2,17 @@
 
     Project Author: David Liberman and Daniil Liberman (https://github.com/libermans)
     Project Wallet: [id3]
-    Terms of use: Use requires the inclusion of links to this project, and the addition of the cost for consumers of products using the results of this project, as determined in Pricing.
-    Pricing: Any product distributed under this license must add 0.1% to the cost determined by its Author. These funds must go to the licence project’s wallet (Project Wallet) to cover the cost of work creating a license (the cost of commits to the master branch of this project). After the cost of the commits to the master branch is covered, the added percentage will decrease, sharing the cost among all consumers of products distributed under this license. To do this, the funds coming to the Project's Wallet from subsequent consumers will go to refund consumers who have already paid for the use of products distributed under this license. By the moment when the additional interest reaches 0.001% for all consumers, subsequent use of this license, in the version created in the master branch of this project, will become free.
+    Terms of use: Use requires the inclusion of links to this project, and the addition of the cost for 
+    consumers of products using the results of this project, as determined in Pricing.
+    Pricing: Any product distributed under this license must add 0.1% to the cost determined by its Author. 
+    These funds must go to the licence project’s wallet (Project Wallet) to cover the cost of work creating 
+    a license (the cost of commits to the master branch of this project). After the cost of the commits 
+    to the master branch is covered, the added percentage will decrease, sharing the cost among all consumers 
+    of products distributed under this license. To do this, the funds coming to the Project's Wallet from 
+    subsequent consumers will go to refund consumers who have already paid for the use of products 
+    distributed under this license. By the moment when the additional interest reaches 0.001% for all 
+    consumers, subsequent use of this license, in the version created in the master branch of this project, 
+    will become free.
 
 ## Project Description
 
@@ -71,6 +80,6 @@ All the texts of this project will be translated into English, Spanish, French, 
 
 [Русский](README.ru.md)
 
-David Liberman and Daniil Liberman intend to use the license made in the framework of the head branch of this project in their future projects and have made a prepayment towards the future commission for the use of the license in the amount of 300 ETH to Wallet id3. These funds can be used immediately to compensate the contributions of Contributors to this project. Compensation of the personal contribution of time is postponed until the completion of the first version of the license and will be carried out together with compensation for the unpaid contributions of other Contributors to the master branch of this project (in proportion to the unpaid contribution for the moment).
+David Liberman and Daniil Liberman intend to use the license made in the framework of the head branch of this project in their future projects and have made a prepayment towards the future commission for the use of the license in the amount of 300 ETH to Wallet [id3]. These funds can be used immediately to compensate the contributions of Contributors to this project. Compensation of the personal contribution of time is postponed until the completion of the first version of the license and will be carried out together with compensation for the unpaid contributions of other Contributors to the master branch of this project (in proportion to the unpaid contribution for the moment).
 
 
