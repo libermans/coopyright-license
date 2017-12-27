@@ -1,5 +1,7 @@
 # Coopyright License (or Cōpiaright License)
 
+[![Join the chat at https://gitter.im/coopyright-license/Lobby](https://badges.gitter.im/coopyright-license/Lobby.svg)](https://gitter.im/coopyright-license/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
     Project Author: David Liberman and Daniil Liberman (https://github.com/libermans)
     Project Wallet: [id3]
     Terms of use: Use requires the inclusion of links to this project, and the addition of the cost for 
