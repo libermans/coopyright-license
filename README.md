@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/coopyright-license/Lobby](https://badges.gitter.im/coopyright-license/Lobby.svg)](https://gitter.im/coopyright-license/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
     Project Author: David Liberman and Daniil Liberman (https://github.com/libermans)
-    Project Wallet: [id3]
+    Project Wallet: 0xEE14B2473F9c1883f203a9EaaE0F9C8B109dD16a
     Terms of use: Use requires the inclusion of links to this project, and the addition of the cost for 
     consumers of products using the results of this project, as determined in Pricing.
     Pricing: Any product distributed under this license must add 0.1% to the cost determined by its Author. 
@@ -72,9 +72,9 @@ The cost of all work to create this license will be collected in this file; each
 
     Cost: 2 x 500 hours х 1.5 ETH + 2 x 200 hours х 1.5 ETH
     Authors: David Liberman and Daniil Liberman (https://github.com/libermans)
-    Wallet: [id2]
+    Wallet: 0xE277283d893f3730c2bAbB94530e58c842186CEd
     Date: November 18, 2017
-    Descriprion: First commit [2016 - 2017]
+    Descriprion: First commit [2016 - 2017]. Description of the license
 
 This project will also be the starting point for individual projects in which tools will be created to effectively implement the principles described here for the development and distribution of products under the Coopyright License.
 
@@ -82,6 +82,6 @@ All the texts of this project will be translated into English, Spanish, French, 
 
 [Русский](README.ru.md)
 
-David Liberman and Daniil Liberman intend to use the license made in the framework of the head branch of this project in their future projects and have made a prepayment towards the future commission for the use of the license in the amount of 300 ETH to Wallet [id3]. These funds can be used immediately to compensate the contributions of Contributors to this project. Compensation of the personal contribution of time is postponed until the completion of the first version of the license and will be carried out together with compensation for the unpaid contributions of other Contributors to the master branch of this project (in proportion to the unpaid contribution for the moment).
+David Liberman and Daniil Liberman intend to use the license made in the framework of the head branch of this project in their future projects and will made a prepayment towards the future commission for the use of the license in the amount of 150 ETH to the Project Wallet (0xEE14B2473F9c1883f203a9EaaE0F9C8B109dD16a). These funds can be used immediately to compensate the contributions of Contributors to this project. Compensation of the personal contribution of time is postponed until the completion of the first version of the license and will be carried out together with compensation for the unpaid contributions of other Contributors to the master branch of this project (in proportion to the unpaid contribution for the moment).
 
 
